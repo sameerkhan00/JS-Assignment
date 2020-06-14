@@ -1,22 +1,7 @@
     // 1st task
 
-// var strings = 'this iS a TeSt Now!';
-// var i=0;
-// var character='';
-// while (i <= strings.length){
-//     character = strings.charAt(i);
-//     if (!isNaN(character * 1)){
-//         alert('character is numeric');
-//     }else{
-//         if (character == character.toUpperCase()) {
-//             alert ('upper case true');
-//         }
-//         if (character == character.toLowerCase()){
-//             alert ('lower case true');
-//         }
-//     }
-   
-// }
+// var alphabet=prompt("Enter alphabet which ASCII u want to know");
+// document.write("ASCII code is "+alphabet.charCodeAt());
 
         //2nd task
 
@@ -24,6 +9,7 @@
 // var second = Number(prompt('Enter second number')); // Input 2: 5
 
 // document.write("Maximum value is "+Math.max(first,second));
+
 
         //3rd task
 

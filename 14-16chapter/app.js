@@ -65,5 +65,9 @@
     
     //15 task
 
-    //  var phones=['apple', 'samsung','nokia','haier'];
-    //  document.write(phones[0]+"<br/>"+phones[1]+"<br/>"+phones[2]+"<br/>"+phones[3]);
+    //  var phones=['apple', 'samsung','nokia','haier']
+    //  document.write("<select>")
+    //  for (var i=0; i<phones.length; i++){
+    //      document.write("<option>"+phones[i]+"</option>")
+    //  }
+    //  document.write("</select>")

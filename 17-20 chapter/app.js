@@ -60,6 +60,12 @@
     //     }
     //     }
 
+    // 6th task (c) (series)
+
+//     var a=("2k 3k 4k 5k 6k 7k ");
+// var split=a.split("  ");
+// document.write(split);
+
     // 7th task
 
     // var A = ["cake","apple pie","cookie","chips","patties"]; 
