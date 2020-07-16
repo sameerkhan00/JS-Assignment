@@ -25,10 +25,10 @@
 
 //document.write(triarea(11,9,9));
 
-            // 4th task
+      // 4th task
 
 // function marks(){
-    
+
 //     var sub1=Number(prompt("enter maths subject marks"));
 //       var sub2=Number(prompt("enter urdu subject marks"));
 //      var sub3=Number(prompt("enter english subject marks"));
